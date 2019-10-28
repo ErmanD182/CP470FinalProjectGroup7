@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">CP470FinalProjectGroup7</string>
     <string name="introScreenText">CP470 FinalProject Group7</string>
+
+    <string name="ErmanloginTitle1">music</string>
+    <string name="ErmanloginTitle2">Local</string>
+    <string name="ErmantempText">This button will be used to add to your favourites</string>
+    <string name="ErmansettingsAboutText">Version 1.0, by Erman Dinsel</string>
+
+    <string name="loginEmail">Email Address</string>
+    <string name="loginPassword">Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="title_activity_map_view">Map</string>
+    <string name="DefaultEmailText">email@domain.com</string>
+    <string name="SavedEmailText"> </string>
+
+    <string name="aboutText">About</string>
+
 </resources>

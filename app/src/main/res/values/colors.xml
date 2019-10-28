@@ -3,4 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="ErmanloginBackground">#BE80FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ErmanloginButton">#7E51C2</color>
+    <color name="ErmantextHint">#E7E7E7</color>
 </resources>

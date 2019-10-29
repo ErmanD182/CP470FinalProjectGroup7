@@ -15,5 +15,6 @@
     <string name="SavedEmailText"> </string>
 
     <string name="aboutText">About</string>
+    <string name="title_activity_erman_maps">Map</string>
 
 </resources>

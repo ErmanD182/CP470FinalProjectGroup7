@@ -8,7 +8,7 @@
     android:background="@color/ErmanloginBackground">
 
     <TextView
-        android:id="@+id/appNameTextView"
+        android:id="@+id/ErmanappNameTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="480dp"
@@ -20,12 +20,12 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.056"
-        app:layout_constraintStart_toStartOf="@+id/imageView3"
+        app:layout_constraintStart_toStartOf="@+id/ErmanimageView3"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.855" />
 
     <TextView
-        android:id="@+id/appNameTextView2"
+        android:id="@+id/ErmanappNameTextView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="480dp"
@@ -35,14 +35,14 @@
         android:textColor="@color/white"
         android:textSize="40sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="@+id/ErmanimageView3"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toEndOf="@+id/appNameTextView"
+        app:layout_constraintStart_toEndOf="@+id/ErmanappNameTextView"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.855" />
 
     <EditText
-        android:id="@+id/loginEmailEditText"
+        android:id="@+id/ErmanloginEmailEditText"
         android:layout_width="260sp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -53,7 +53,7 @@
         android:inputType="textEmailAddress"
         android:textColor="@color/white"
         android:textColorHint="@color/ErmantextHint"
-        app:layout_constraintBottom_toTopOf="@+id/loginPasswordEditText"
+        app:layout_constraintBottom_toTopOf="@+id/ErmanloginPasswordEditText"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -73,7 +73,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/loginPasswordEditText"
+        android:id="@+id/ErmanloginPasswordEditText"
         android:layout_width="260sp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -91,15 +91,15 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/ErmanimageView3"
         android:layout_width="286dp"
         android:layout_height="247dp"
         android:background="@drawable/ermanloginpic"
-        app:layout_constraintBottom_toTopOf="@+id/loginPasswordEditText"
+        app:layout_constraintBottom_toTopOf="@+id/ErmanloginPasswordEditText"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/appNameTextView2"
+        app:layout_constraintTop_toTopOf="@+id/ErmanappNameTextView2"
         app:layout_constraintVertical_bias="0.431" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

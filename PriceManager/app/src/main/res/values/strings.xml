@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PriceManager</string>
+    <string name="searchBarLabel">Search for item:</string>
+    <string name="searchBarHint">Link</string>
+    <string name="searchButton">Search</string>
+    <string name="mainAboutAction">About</string>
+</resources>
